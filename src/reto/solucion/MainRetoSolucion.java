@@ -53,6 +53,12 @@ public class MainRetoSolucion {
         System.out.println("grado de LTX -> " + raiz.grado());
         System.out.println("grado de SNC -> " + raiz.getDerecho().getIzquierdo().grado());
 
+        System.out.println("== Parte 2.1: árbol A en forma gráfica ==");
+        System.out.println("=Arbol A=");
+        VistaArbol.mostrarGrafico(arbolA);
+        System.out.println("=Arbol B=");
+        VistaArbol.mostrarGrafico(arbolB);
+
         System.out.println();
         System.out.println("== Parte 3: árbol B ==");
         VistaArbol.mostrar(arbolB);
