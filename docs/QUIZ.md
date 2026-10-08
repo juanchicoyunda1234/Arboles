@@ -10,15 +10,16 @@
 
 - **a)** A conectado con B y C; B conectado con D
 - **b)** A conectado con B y C; B conectado con C y D
-- **c)** A conectado con B; C conectado con D; sin ningún enlace entre los dos grupos
-- **d)** A conectado con B y C; B conectado con D; C conectado con D
+- **c)** A conectado con B, B con C y C con D (A-B-C-D)
+- **d)** A conectado con B y D, y C solo con D
 
-**Respuesta correcta:** a  
-**Explicación:** Formalmente, un árbol es un grafo no dirigido conexo y acíclico. La opción **a** permite viajar entre cualquier par de nodos ($D \leftrightarrow B \leftrightarrow A \leftrightarrow C$) manteniendo un único camino simple sin lazos cerrados. La opción **b** y la **d** introducen ciclos entre nodos (por ejemplo, $B-C-D$), y la **c** describe un bosque o grafo disconexo con dos componentes separadas.
-
-> [!NOTE]
-> **Alineación con el Quiz en vivo (Wayground):**  
-> En la plataforma Quizizz/Wayground, verifique que los distractores de esta pregunta coincidan con este banco (`c` disconexo y `d` con ciclo). Si en el quiz en vivo se colocan opciones como $A-B-C-D$ o $A$ conectado con $B$ y $D$ y $C$ solo con $D$, ambas constituyen formalmente árboles (árbol camino y árbol con raíz central), lo que provocaría que queden mal calificadas al haber una sola opción correcta registrada en la plataforma.
+**Respuesta correcta:** a (en la plataforma interactiva está registrada como la clave principal; formalmente c y d también constituyen árboles válidos)  
+**Explicación:** Un árbol es un grafo no dirigido conexo y acíclico ($N$ nodos y $N-1$ aristas sin lazos cerrados):
+- **Opción a:** Constituye un árbol binario ramificado donde la raíz $A$ conecta con $B$ y $C$, y $B$ conecta con $D$ (4 nodos, 3 aristas, conexo y sin ciclos).
+- **Opción b:** No es un árbol, ya que las conexiones entre $B$, $C$ y $D$ generan un ciclo cerrado.
+- **Opción c:** Constituye un árbol en cadena ($A \leftrightarrow B \leftrightarrow C \leftrightarrow D$), el cual es conexo y acíclico (4 nodos, 3 aristas).
+- **Opción d:** Constituye un árbol conexo y sin ciclos ($B \leftrightarrow A \leftrightarrow D \leftrightarrow C$), con 4 nodos y 3 aristas.
+Por lo tanto, las opciones **a**, **c** y **d** satisfacen formalmente las condiciones de árbol, siendo **a** la opción configurada en la plataforma.
 
 ---
 
