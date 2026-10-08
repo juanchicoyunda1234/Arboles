@@ -16,6 +16,10 @@
 **Respuesta correcta:** a  
 **Explicación:** Formalmente, un árbol es un grafo no dirigido conexo y acíclico. La opción **a** permite viajar entre cualquier par de nodos ($D \leftrightarrow B \leftrightarrow A \leftrightarrow C$) manteniendo un único camino simple sin lazos cerrados. La opción **b** y la **d** introducen ciclos entre nodos (por ejemplo, $B-C-D$), y la **c** describe un bosque o grafo disconexo con dos componentes separadas.
 
+> [!NOTE]
+> **Alineación con el Quiz en vivo (Wayground):**  
+> En la plataforma Quizizz/Wayground, verifique que los distractores de esta pregunta coincidan con este banco (`c` disconexo y `d` con ciclo). Si en el quiz en vivo se colocan opciones como $A-B-C-D$ o $A$ conectado con $B$ y $D$ y $C$ solo con $D$, ambas constituyen formalmente árboles (árbol camino y árbol con raíz central), lo que provocaría que queden mal calificadas al haber una sola opción correcta registrada en la plataforma.
+
 ---
 
 ### Pregunta 2
