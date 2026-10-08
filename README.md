@@ -28,6 +28,8 @@ Todos los recursos usados en la clase están reunidos en [`docs/MATERIAL-USADO.m
 | Recurso | Enlace |
 |---|---|
 | 🎨 Diapositivas (Canva) | [Abrir presentación en Canva](https://www.canva.com/design/DAHXSu0aWoM/ED9y8eXNtBBvE5j170wpUg/view) |
+| 📄 Diapositivas (PDF exportado) | [`presentacion/Introduccion_a_los_arboles_Grupo_1.pdf`](presentacion/Introduccion_a_los_arboles_Grupo_1.pdf) |
+| 📊 Diapositivas (PowerPoint editable) | [`presentacion/Introduccion_a_los_arboles_Grupo_1.pptx`](presentacion/Introduccion_a_los_arboles_Grupo_1.pptx) |
 | 🧠 Quiz interactivo (Quizizz / Wayground) | [Abrir cuestionario en vivo](https://wayground.com/admin/quiz/6ac5b513346b0a5f373a4a08?source=quiz_share) |
 | 🔍 Visualización de árboles (VisuAlgo) | [visualgo.net/en/bst](https://visualgo.net/en/bst) |
 | 💻 Repositorio del proyecto | [GitHub: juanchicoyunda1234/Arboles](https://github.com/juanchicoyunda1234/Arboles.git) |
