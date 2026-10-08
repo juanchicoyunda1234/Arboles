@@ -27,10 +27,10 @@ Todos los recursos usados en la clase están reunidos en [`docs/MATERIAL-USADO.m
 
 | Recurso | Enlace |
 |---|---|
-| 🎨 Diapositivas (Canva) | [Abrir presentación en Canva](https://www.canva.com/design/DAHXRRsy3dU/xA8SoQxTXWldkgG0fct09w/edit) |
+| 🎨 Diapositivas (Canva) | [Abrir presentación en Canva](https://www.canva.com/design/DAHXSu0aWoM/ED9y8eXNtBBvE5j170wpUg/view) |
 | 🧠 Quiz interactivo (Quizizz / Wayground) | [Abrir cuestionario en vivo](https://wayground.com/admin/quiz/6ac5b513346b0a5f373a4a08?source=quiz_share) |
 | 🔍 Visualización de árboles (VisuAlgo) | [visualgo.net/en/bst](https://visualgo.net/en/bst) |
-| 💻 Repositorio del proyecto | [GitHub: juanchicoyunda1234/Arboles_T](https://github.com/juanchicoyunda1234/Arboles_T.git) |
+| 💻 Repositorio del proyecto | [GitHub: juanchicoyunda1234/Arboles](https://github.com/juanchicoyunda1234/Arboles.git) |
 
 ---
 
@@ -48,7 +48,7 @@ Todos los recursos usados en la clase están reunidos en [`docs/MATERIAL-USADO.m
    Pregunta gancho sobre dónde hay árboles en la vida diaria (sistemas de archivos, organigramas, DOM) y su relación con el proyecto **SmartETL_DS** y los volúmenes de datos.
 
 2. **Explicación visual (5 a 35 min):**  
-   - **Diapositivas:** a cargo de todo el equipo: definición, terminología clave (raíz, nodos, hojas, nivel, altura), árbol general frente a árbol binario y el árbol en el proyecto final. [Canva](https://www.canva.com/design/DAHXRRsy3dU/xA8SoQxTXWldkgG0fct09w/edit).
+   - **Diapositivas:** a cargo de todo el equipo: definición, terminología clave (raíz, nodos, hojas, nivel, altura), árbol general frente a árbol binario y el árbol en el proyecto final. [Canva](https://www.canva.com/design/DAHXSu0aWoM/ED9y8eXNtBBvE5j170wpUg/view).
    - **Dinámica "Árbol humano":** Seis voluntarios llevan tarjetas con códigos de aeropuertos (`UIO`, `GYE`, `MEC`, `CUE`, `LOH`, `ESM`) y forman el árbol binario. Con la mano izquierda y derecha señalan a sus respectivos hijos; quien no tiene hijo en un lado muestra una tarjeta `null`. La clase identifica la raíz, las hojas, el grado de `GYE` y la altura del árbol. Posteriormente se reacomodan en fila para visualizar el árbol degenerado en cadena.
    - **Demostración en VisuAlgo:** Comparación visual interactiva entre un árbol equilibrado y una cadena degenerada (<https://visualgo.net/en/bst>).
 
